@@ -1,0 +1,8 @@
+venv/ 
+.venv/ 
+__pycache__/ 
+encodings.pkl 
+*.db 
+*.csv 
+*.csv 
+known_faces/ 
